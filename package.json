@@ -1,0 +1,24 @@
+{
+  "name": "NoteTaker",
+  "version": "1.0.0",
+  "description": "An application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEX00100alex/NoteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALEX00100alex/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/ALEX00100alex/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
