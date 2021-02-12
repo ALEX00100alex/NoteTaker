@@ -25,15 +25,16 @@ THEN they are presented with empty fields to enter a new note title and the note
 ## Screenshots 
 
 Here are screenshots of generated note examples:
-
+![Note screenshot 1](https://user-images.githubusercontent.com/53154900/107731634-4fdca600-6cab-11eb-8fe5-3991f60fe17b.PNG)
+![Note screenshot 2](https://user-images.githubusercontent.com/53154900/107731662-5ec35880-6cab-11eb-906a-d7d33d7cac7c.PNG)
 
 ## Contribute
 
-Want to contribute? You can find the github repo here: 
+Want to contribute? You can find the github repo here: https://github.com/ALEX00100alex/NoteTaker
 
 ## Links
 
-Github Website link: 
+Github Website link: https://alex00100alex.github.io/NoteTaker/ 
 
 ## Credits
 
