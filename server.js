@@ -25,7 +25,6 @@ app.delete("/api/notes/:id", function(req,res){
     const file = fs.readFileSync("./db.json");
     const json = JSON.parse(file);
     const newJson = json.filter(note => note.id !== parseInt(req.params.id));
-    console.log(newJson);
     fs.writeFileSync("./db.json", JSON.stringify(newJson));
     res.sendFile(path.join(__dirname, "./db.json"));
 });
